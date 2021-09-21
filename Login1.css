@@ -1,0 +1,47 @@
+body
+{
+margin: 0;
+padding: 0;
+background-color: grey;
+font-family: 'Arial';
+}
+.log{
+width: 381px;
+overflow: hidden;
+margin: 20px 0px 0px 500px;
+margin: auto;
+padding: 79px;
+background:black;
+border-radius: 15px ;
+}
+h2{
+text-align: center;
+color: black;
+padding: 20px;
+}
+label{
+color: #08ffd1;
+font-size: 17px;
+}
+#uname{
+width: 299px;
+height: 30px;
+border: none;
+border-radius: 3px;
+padding-left: 8px;
+}
+#password{
+width: 299px;
+height: 30px;
+border: none;
+border-radius: 3px;
+padding-left: 8px;
+}
+#log1{
+width: 299px;
+height: 30px;
+border: none;
+border-radius: 17px;
+padding-left: 7px;
+color: blue;
+}
